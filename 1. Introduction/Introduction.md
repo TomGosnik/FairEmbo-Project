@@ -2,45 +2,27 @@
 
 ## Motivations
 
-*This section addresses the question: Why are you starting this project?*
+The motivation for the project is to make access to embolisation possible in the most disadvantaged countries.
+With the use of suture particles replacing the technology used today, this is now possible.
 
-
-As an example:
-  
-The project [BCN3D Moveo](https://github.com/BCN3D/BCN3D-Moveo/) is motivated by the high cost 
-of the materials that undergraduate students must use for learning how to engineer mechatronics systems.
+However, the cutting of the particles must be precise, in large quantities and with a length that must vary according to the different patients.
+Scissor cutting is therefore not sufficient, so it is necessary to automate the process. 
 
 ## Goals
 
-*This section addresses the question: What will be delivered in this project?* 
+The aim of the project is to produce a machine that meets these requirements. 
 
-As an example: 
-  
-The project [BCN3D Moveo](https://github.com/BCN3D/BCN3D-Moveo/) is an open source robotic arm 
-that everyone should be able to replicate - with or without modification - at home without the need for highly 
-technical knowledge and expensive materials. 
-The robotic arm will support several of the existing training itineraries: 
-mechanical design, automation, industrial programming, etc.
+This machine must be usable and adapted for regular use in a hospital. The interface must therefore be accessible to all with simple but detailed instructions.
 
+In addition, the cut thread must be taken from a standard suture spool.
 
 ## History
 
-*Here it is welcome to acknowledge the existing sources that have been used in this project with locations*
-
-- Initiators of the original project
-- URL of the original project
-- URL of other related projects 
-
+The project originated from a group of health professionals, chaired by Professor Vincent Vidal.
+Mr. Mathieu DE BIGLIESCE is the doctor who contacted us so that we could launch the project
 
 ## Documentation structure
 
-*How is your documentation organized?*
-
-
-These guidelines will provide you with a standard structure that is mainly following the product 
-life cycle and the technological decomposition. It is implemented in the documentation template available in this project. 
-  
-For example:
 - Introduction
 - Specification
 - Design 
@@ -50,66 +32,27 @@ For example:
 - Maintenance
 - Disposal
 
-And inside each of the sections, if required:
-- Mechanical
-- Electronic 
-- Software 
-
-
-
 ## Required skills
 
-*What is the specific knowledge a maker shall own to reuse - with or without modification - your product??*
-
-For example:
-  
-The project echopen need basic knowledge about the medical ultrasound technology such as ultrasound imaging, 
-a matter of acoustical impedance, etc.  
-
+To reproduce or modify the cutting machine, it is necessary to know the basic mechanics as well as the electronics and coding related to the Arduino.
 
 ## Contribution Process
 
-*Describe here how a maker can contribute to your project*
-
--  Example of a contribution process:
-  - Post an [issue] and briefly outline the changes you plan to make
-  - If you are looking for input on what to contribute, browse the issues with the Requests or Bug label
-  - Describe branches
-  - Describe what a Pull Request (PR) shall contain (detailed description of changes, a summary of the test, 
-    issue numbers that the PR resolves)
-  - Specify code style 
-  - Contributor license agreement
-
+A REMPLIR
 
 ## Last updates 
 
-*What is the last update of your documentation?*
-
-- Last modification (date, time, object of modification, who,...)
-
+A REMPLIR
 
 ## Project team
 
-*Describe here who is the leader and the main contributors of the project*
-
-- Name {E-mail}
-  - domain of expertise and role in the project
-  - link to personal web page
-
+GOSNIK Tom
+LIANG Chaoji
 
 ## License
 
-*What open-source hardware license your project complies with?*
-
-
-- [Comparison of free and open-source software licences](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences)
-- [license of open hardware projects](https://opensource.com/law/15/2/intro-open-hardware-licensing#:~:text=Open%20source%20hardware%20is%20hardware,on%20their%20hardware%20at%20all.)
-
+A REMPLIR
 
 ## Sponsors and Partners
 
-Who is sponsoring your project?
-
-- URL:
-- Name:
-- E-mail address:
+A REMPLIR
