@@ -1,6 +1,7 @@
 # FairEmbo - Fragmentation of surgical suture thread 
 
-![image](https://user-images.githubusercontent.com/109949167/180742825-0df711a6-362a-4a22-8518-60668c71673b.png)
+![image](https://user-images.githubusercontent.com/109949167/180742825-0df711a6-362a-4a22-8518-60668c71673b.png) ![image](https://user-images.githubusercontent.com/109949167/180743118-114a97ad-eb24-495e-84e9-417e1dec5a63.png)
+
 
 This project is part of a search for a new solution to the problem of embolisation in association with the FairEmbo company. 
 Embolisation is a technology whose objective is to stop bleeding or blood circulation in a targeted area. The process closes a vessel by injecting a product into an artery under local anaesthetic. 
