@@ -46,8 +46,9 @@ A REMPLIR
 
 ## Project team
 
-GOSNIK Tom
-LIANG Chaoji
+The main designers of this machine are:
+- GOSNIK Tom
+- LIANG Chaoji
 
 ## License
 
