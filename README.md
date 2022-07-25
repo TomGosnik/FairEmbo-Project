@@ -1,5 +1,4 @@
 # FairEmbo - Fragmentation of surgical suture thread 
--
 
 
 This project is part of a search for a new solution to the problem of embolisation in association with the FairEmbo company. 
