@@ -5,16 +5,16 @@
 The motivation for the project is to make access to embolisation possible in the most disadvantaged countries.
 With the use of suture particles replacing the technology used today, this is now possible.
 
-However, the cutting of the particles must be precise, in large quantities and with a length that must vary according to the different patients.
-Scissor cutting is therefore not sufficient, so it is necessary to automate the process. 
+However, the cutting process must be precise, in large quantities and with an ajustable particles' length. Beacause it must meet the needs of different patients.
+Manual scissor cutting is therefore not sufficient, so it is necessary to automate the process. 
 
 ## Goals
 
 The aim of the project is to produce a machine that meets these requirements. 
 
-This machine must be usable and adapted for regular use in a hospital. The interface must therefore be accessible to all with simple but detailed instructions.
-
-In addition, the cut thread must be taken from a standard suture spool.
+This machine must be usable and adapted for regular use in a hospital. 
+The interface must therefore be accessible for all staffs with simple but detailed instructions.
+In addition, the cut thread can be found from a standard suture spool.
 
 ## History
 
