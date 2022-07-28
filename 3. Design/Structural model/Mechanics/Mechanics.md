@@ -4,8 +4,8 @@
 
 - **Definition:** *The architectural structure is a physical or logical layout of the components of a system design and their internal and external connections.*
 
-<p align="center>
-  <img src="https://user-images.githubusercontent.com/109949167/181521373-2dc9efc6-8b27-47d7-89d1-36e2721eb45a.png" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/109949167/181522655-e4687a23-6942-4f80-8b57-2730ff4d2ba8.png" />
 </p>
 
  ```
