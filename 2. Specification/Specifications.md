@@ -36,20 +36,51 @@
   <img src="https://user-images.githubusercontent.com/109949167/181773341-88ca7378-b00c-4826-a9b8-21b912d1d56a.png" />
 <p/>
 
-## 3. Service *(synonyms: external function, capability)* 
-
-**Definition:** *A service is an effect intended by a stakeholder resulting from the interaction of the product with its environment (i.e. what the  product is for).*
-
-Diagramme services
-
-## 4. Constraint *(Synonyms: non function requirement)*
-
-**Definition:**  *A constraint is a choice that makes certain designs "not allowed" or inappropriate for their intended use.*
-
-Diagramme contraintes
-
-## 5. Requirement
+## 3. Requirement
 
 **Definition:** *A requirement is a formal statement that specifies when condition C is true, property P of object O is actual and its value shall belong  to domain D.*
 
-Diagramme requirements
+* Cutting suture into particles
+  * Particle size
+  * Wire diameter
+  * Number of particles
+  * Particle shape
+  * Particle recovery
+  * Speed of the process
+
+* Be able to adapt to several types of suture bobbins
+  * Inner diameter
+  * Outside diameter
+  * Wire length
+
+* Be inexpensive
+  * Cost
+
+* Be robust
+  * Drop resistance
+  * Lifetime
+
+* Be self-contained
+  * Unattended operation time
+
+* Be easy to use
+  * User documentation
+  * Accessibility of controls
+  * Quick to set up
+
+* Be maintainable
+  * Demountability
+  * Accessible materials, manufacturing techniques and components
+
+* Be reproducible
+  * Comprehensive documentation content
+  * Accessibility of documentation
+  * Accessible materials, manufacturing techniques and components
+
+* Be lightweight and small in size
+  * Mass
+  * Volume
+ 
+* Be able to adapt to its environment
+  * Power supply
+  * Temperature
