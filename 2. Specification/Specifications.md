@@ -4,7 +4,29 @@
   
 **Definition:** *Stakeholders generally refer to all the actors (human and non-human) who have an interest in a product. Among the stakeholders, there are both internal players, such as users and participants of the project, and external players that are represented by the potential user of products or external entities.*
 
-Diagramme pieuvre
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/109949167/181742686-4f35b55b-2dd5-48fe-8c05-09efa020f82b.png" />
+<p/>
+
+**FP1:** 
+
+**FP2:** 
+
+**FC1:** 
+
+**FC2:** 
+
+**FC3:** 
+
+**FC4:** 
+
+**FC5:** 
+
+**FC6:** 
+
+**FC7:** 
+
+**FC8:** 
   
 ## 2. External interfaces
   
