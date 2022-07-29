@@ -2,6 +2,8 @@
 
 ## 1. Bill of Materials
 
+ - **Definition:** *A bill of materials (BOM) is a comprehensive list of parts, items, and other materials required to create a product, as well as instructions required for gathering and using the required materials.*
+
 Component name |	Nomenclature |	Number of components |	Material |	Manufacturing technique |	Machine reference |	Manufacturing parameters |	Component reference |	Link |	Unit price
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 Structure	|
