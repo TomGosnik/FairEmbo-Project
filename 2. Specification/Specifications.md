@@ -5,34 +5,36 @@
 **Definition:** *Stakeholders generally refer to all the actors (human and non-human) who have an interest in a product. Among the stakeholders, there are both internal players, such as users and participants of the project, and external players that are represented by the potential user of products or external entities.*
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/109949167/181742686-4f35b55b-2dd5-48fe-8c05-09efa020f82b.png" />
+  <img src="https://user-images.githubusercontent.com/109949167/181773559-64129ea1-934d-4871-ab0b-a3b4538e2877.png" />
 <p/>
 
-**FP1:** 
+**FP1:** Cutting suture into particles
 
-**FP2:** 
+**FC1:** Be able to adapt to several types of suture bobbins
 
-**FC1:** 
+**FC2:** Be inexpensive
 
-**FC2:** 
+**FC3:** Be robust
 
-**FC3:** 
+**FC4:** Be able to adapt to its environment
 
-**FC4:** 
+**FC5:** Be lightweight and small in size
 
-**FC5:** 
+**FC6:** Be self-contained
 
-**FC6:** 
+**FC7:** Be easy to use
 
-**FC7:** 
+**FC8:** Be maintainable
 
-**FC8:** 
+**FC9:** Be reproducible
   
 ## 2. External interfaces
   
 **Definition:**  *External interfaces are interactions between the product and the stakeholders.*
 
-Diagramme interfaces
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/109949167/181773341-88ca7378-b00c-4826-a9b8-21b912d1d56a.png" />
+<p/>
 
 ## 3. Service *(synonyms: external function, capability)* 
 
