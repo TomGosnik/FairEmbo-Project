@@ -41,46 +41,45 @@
 **Definition:** *A requirement is a formal statement that specifies when condition C is true, property P of object O is actual and its value shall belong  to domain D.*
 
 * Cutting suture into particles
-  * Particle size
-  * Wire diameter
-  * Number of particles
-  * Particle shape
+  * Particle size : between 300 and 1100 µm	(precision +/-75µm)
+  * Wire diameter 
+  * Particle shape : cylindrical (validated if the particles can exit the syringe)
   * Particle recovery
-  * Speed of the process
+  * Speed of the process : less than 1s/particle
 
 * Be able to adapt to several types of suture bobbins
-  * Inner diameter
+  * Inner diameter 
   * Outside diameter
   * Wire length
 
 * Be inexpensive
-  * Cost
+  * Cost : less than 500€ in parts
 
 * Be robust
-  * Drop resistance
-  * Lifetime
+  * Drop resistance : functional after a drop of at least 1m
+  * Lifetime 
 
 * Be self-contained
-  * Unattended operation time
+  * Unattended operation time : Stops only when there is no more wire or when the user requests it (+/- 1s)
 
 * Be easy to use
-  * User documentation
-  * Accessibility of controls
-  * Quick to set up
+  * User documentation : can be used without instructions or training (possibility to integrate operating steps)
+  * Accessibility of controls : can be used without the need for special dexterity
+  * Quick to set up : less than 5 minutes
 
 * Be maintainable
-  * Demountability
-  * Accessible materials, manufacturing techniques and components
+  * Demountability : access to components in the machine possible by hand or with a simple tool
+  * Accessible materials, manufacturing techniques and components : use of materials, manufacturing techniques and components found in a conventional FabLab
 
 * Be reproducible
-  * Comprehensive documentation content
-  * Accessibility of documentation
-  * Accessible materials, manufacturing techniques and components
+  * Comprehensive documentation content : must be comprehensive and clear enough to be constructed by a third party
+  * Accessibility of documentation : must be found on the internet
+  * Accessible materials, manufacturing techniques and components : use of materials, manufacturing techniques and components found in a conventional FabLab
 
 * Be lightweight and small in size
-  * Mass
-  * Volume
+  * Mass : less than 3kg
+  * Volume : between 3 and 10 dm3
  
 * Be able to adapt to its environment
-  * Power supply
-  * Temperature
+  * Power supply : 230V (+/- 1V)
+  * Temperature : between 0 and 50 °C
