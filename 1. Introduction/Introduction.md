@@ -46,9 +46,9 @@ A REMPLIR
 
 ## Project team
 
-The main designers of this machine are:
-- GOSNIK Tom
-- LIANG Chaoji
+| GOSNIK Tom, student at Grenoble INP - Industrial Engineering and Management |
+|:::|
+| LIANG Chaoji |
 
 ## License
 
