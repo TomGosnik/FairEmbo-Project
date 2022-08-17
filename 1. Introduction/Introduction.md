@@ -46,9 +46,11 @@ A REMPLIR
 
 ## Project team
 
-| GOSNIK Tom, student at Grenoble INP - Industrial Engineering and Management |
-|:::|
-| LIANG Chaoji |
+| GOSNIK Tom | LIANG Chaoji |
+| :---: | :---: |
+| Student at Grenoble INP - Industrial Engineering and Management | Student at Grenoble Alpes University (UGA) - Phitem |
+| tom.gnk@gmail.com | liangchaoji04@gmail.com |
+| +33 (0)7.82.32.30.22 | +33 (0)7.61.24.24.02 |
 
 ## License
 
