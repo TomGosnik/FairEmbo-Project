@@ -100,7 +100,7 @@ To reuse a design model, it should provide information consist of:
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 Medium density fibreboard(MDF) | 0.75 | 10 | 4.0 | 0.3 | - | more than 10 | inexpensive, easy to recycle, solid, easy to manufacture (laser cutting, paint...) | heavy, absorb water faster than wood | https://www.makeitfrom.com/material-properties/Medium-Density-Fiberboard-MDF/, https://www.researchgate.net/figure/Physical-and-mechanical-properties-of-MDF-panels-containing-burned-wood_tbl3_257485673, https://civiltoday.com/civil-engineering-materials/timber/163-advantages-and-disadvantages-of-mdf
 Plexiglass (PMMA) | 1.18 | 75,84 - 131 | - | - | 65-93 | 30 and even more | inexpensive, easy to manufacture (laser cutting, folding...), light | not resistant to heat | https://laminatedplastics.com/plexiglass.pdf, https://www.plexiglas.de/en/sustainability/easy-to-recycle, https://plasticsheetsshop.co.uk/acrylic-advantages-and-disadvantages/#:~:text=Advantage%3A%20Plexiglass%20is%20hardwearing%20Acrylic%20sheet%20is%20very,same%20levels%20of%20thermal%20efficiency%20as%20standard%20glass.
-Aluminum |  | | | | | | | | https://www.azom.com/article.aspx?ArticleID=2863
+Aluminum | 2.6898 | - | 68.3 | 238,488 | - | 40 - 80 | lighter than other metal, easy to manufacture( lathe, milling..) |  | https://www.azom.com/article.aspx?ArticleID=2863, https://www.metalswarehouse.co.uk/lifespan-recyclability-aluminium-steel/
   #### Documentation of material characteristics
   1. Name of characteristic
      * Properties
