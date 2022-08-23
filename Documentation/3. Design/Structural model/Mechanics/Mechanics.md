@@ -10,7 +10,7 @@
 
 ### Template of architectural structure
  
- - **Explanation:** *The Template contains 2 main flow streams : 1. Power supply(represented in red), 2. Suture Wire (represented in green)
+ - **Explanation:** The Template contains 2 main flow streams : 1. Power supply(represented in red), 2. Suture Wire (represented in green)
  
  </p>
 <p align="center">
