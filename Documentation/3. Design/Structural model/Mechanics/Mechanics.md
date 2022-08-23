@@ -10,7 +10,7 @@
 
 ### Template of architectural structure
  
- - **Explanation:** *The Template contains 2 parts : 1. Power supply(represented in red), 2. Suture Wire (represented in green)
+ - **Explanation:** *The Template contains 2 main flow streams : 1. Power supply(represented in red), 2. Suture Wire (represented in green)
  
  </p>
 <p align="center">
@@ -20,12 +20,9 @@
  
   
  
-### **2.Modelling a design in an editable file format**
-<details>
-  <summary>Click to see the guideline!</summary>
+### **2.Editable CAD files**
+ *Fairembo was designed in Freecad (version 0.19) and contained 2 type of formats : '.FCStd' and '.STEP', allowing you to have full access to view, copy, edit, and export all of the source 3D CAD models for free from any computer which has installed Freecad* 
  
-- **Definition:** *An editable file format is a standard way that information is encoded for storage and allows the makers to study, modify the geometry of a model and reuse it.* 
-
  ```
 To reuse a design model, it should provide information consist of:
 
