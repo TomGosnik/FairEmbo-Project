@@ -4,6 +4,7 @@
 
 - **Definition:** *The architectural structure is a physical or logical layout of the components of a system design and their internal and external connections.*
  <p align="center">
+ 
   <img src="https://user-images.githubusercontent.com/109949167/181609976-df1aec48-4e1c-4851-8722-7dd79cdbb186.png" />
 
 
@@ -21,44 +22,19 @@
   
  
 ### **2.Editable CAD files**
- *Fairembo was designed in Freecad (version 0.19) and contained 2 type of formats : '.FCStd' and '.STEP', allowing you to have full access to view, copy, edit, and export all of the source 3D CAD models for free from any computer which has installed Freecad* 
- 
- ```
-To reuse a design model, it should provide information consist of:
-
- 1. Preferable 3D/2D file format
-   - Editable file formats that could be:
-     - Native formats such as .FCStd format of FreeCAD 
-     - Neutral formats such as STEP files
- 2. Preferable open-source software 
-   - OpensCAD
-   - Inkscape
-   - FreeCAD
-  ```
-</details>
-
-<details>
-  <summary>Click to see the examples!</summary>
- 
-#### *Example of editable file formats:* 
-
-*1. [Farmbot, Native CAD files](https://genesis.farm.bot/v1.5/Extras/cad)*
-
-*2. [MIT Emergency Ventilator, Neutral CAD files](https://e-vent.mit.edu/resources/downloads/)*
-
-*3. Types of CAD format of [transmagic](https://transmagic.com/cad-formats/)*
-</details>
+ *Fairembo was designed in Freecad (version 0.19), allowing you to have full access to view, copy, edit, and export all of the source 3D CAD models for free from any computer which has installed Freecad* 
 
 ### Template of file format
 
- #### Documentation a design in an editable file format
   1. 3D/2D file format
-     * Native formats
-     * Neutral formats
-  2. Name of software
+     * '.FCStd' is the original Freecad file format, allowing you to change the dimensions of the component as you want
+     * '.STEP' is a neutral format which is for representative use such as Stepper Motor, Arduino card.
+     * '.Dxf' is a 2D file format which allow you to use it in laser cutting
+     * '.Stl' is a 3D file format which mostly used in 3D printing
+  2. Name of CAD software
      * FreeCAD
-     * ...
-
+     * Version used : 0.19
+     * Download link : https://www.freecadweb.org/downloads.php
  
 ### **3. Characteristics of the materials**
   
