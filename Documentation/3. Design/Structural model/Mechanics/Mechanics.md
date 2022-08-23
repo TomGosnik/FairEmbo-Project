@@ -4,8 +4,7 @@
 
 - **Definition:** *The architectural structure is a physical or logical layout of the components of a system design and their internal and external connections.*
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/109949167/181609976-df1aec48-4e1c-4851-8722-7dd79cdbb186.png" />
+
 </p>
 
 <p align="center">
@@ -54,7 +53,8 @@
   #### Architectural structure documentation
   1. A model specifying components
  
- ![Image of template for architectural structure](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Architectural%20structure%20for%20template.jpg)
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/109949167/181609976-df1aec48-4e1c-4851-8722-7dd79cdbb186.png" />
  
   *You can use the link below as a template to define the architectural structure of your project/product.*
  
