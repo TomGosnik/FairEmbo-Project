@@ -96,9 +96,10 @@ To reuse a design model, it should provide information consist of:
   
 ### Template of material Characteristics
  
- Name of material |	Density (kg/m3) |	Compressive Strength (MPa) |	Elastic Modulus (GPa)|	Thermal Conductivity (W/m-K) | life span (years) |	Advantage |	link of reference 
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-medium density fibreboard(MDF) | 720 - 760 | 10 | 4.0 | 0.3 | more than 10 | | https://www.makeitfrom.com/material-properties/Medium-Density-Fiberboard-MDF/, https://www.researchgate.net/figure/Physical-and-mechanical-properties-of-MDF-panels-containing-burned-wood_tbl3_257485673, 
+ Name of material |	Density (kg/m3) |	Compressive Strength (MPa) |	Elastic Modulus (GPa)|	Thermal Conductivity (W/m-K) | life span (years) |	Advantage | Disadvantage |	link of reference 
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:| :---:|
+medium density fibreboard(MDF) | 720 - 760 | 10 | 4.0 | 0.3 | more than 10 | inexpensive, recyclable, solid, easy to manufacture (laser cutting, paint...) | heavy, absorb water faster than wood | https://www.makeitfrom.com/material-properties/Medium-Density-Fiberboard-MDF/, https://www.researchgate.net/figure/Physical-and-mechanical-properties-of-MDF-panels-containing-burned-wood_tbl3_257485673, https://civiltoday.com/civil-engineering-materials/timber/163-advantages-and-disadvantages-of-mdf
+
   #### Documentation of material characteristics
   1. Name of characteristic
      * Properties
