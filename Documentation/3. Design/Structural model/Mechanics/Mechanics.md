@@ -61,40 +61,8 @@ To reuse a design model, it should provide information consist of:
 
  
 ### **3. Characteristics of the materials**
-<details>
-  <summary>Click to see the guideline!</summary>
- 
-- **Definition:** *The characteristics of the materials are those that identify the reactions of materials reactions to heat, electricity, light, force, etc.* 
-
-  - *Selection of materials  based on factors including properties for [behavioral](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/3.%20Design/Behavioral%20model) analysis, [environmental impact](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/tree/main/Documentation/8.%20Disposal), [manufacturing](https://github.com/OPEN-NEXT/wp2.3_template/tree/main/Documentation/4.%20Manufacturing) processes in design reuse.* 
-
-```
-  The material characteristics of mechanical parts consist of: 
   
-  1- Identifying the kind of characteristics and their properties: 
-  
-    - Mechanical characteristics like hardness, elasticity, plasticity, toughness, etc. 
-    - Manufacturing properties like castability, machinability rating, etc.
-    - Thermal characteristics like melting point, thermal conductivity, etc.
-    - Electrical characteristics like electrical resistivity and conductibility, etc.
-    - Chemical properties like corrosion resistance, surface tension, etc.
-     
-  ```
-  </details>
-  
-  <details>
-  <summary>Click to see the examples!</summary>
- 
-  #### *Example of material characteristics*:
-  
-*Figure below shows some physical properties of superalloy base elements.*
-
-![Image of material characteristics](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/material%20characteristics%20example.jpg)
-
-> Source: Kutz, M. ed., 2002. Handbook of materials selection. John Wiley & Sons.
-  </details>
-  
-### Template of material Characteristics
+   ### Table of material Characteristics
  
  Name of material |	Density (g/cm3) |	Compressive Strength (MPa) |	Elastic Modulus (GPa) | Max Operating Temp (°C) | life span (years) |	 Advantage |  Disadvantage |	link of reference 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -102,10 +70,6 @@ Medium density fibreboard(MDF) | 0.75 | 10 | 4.0 | up to 130 | more than 10 | in
 Plexiglass (PMMA) | 1.18 | 75,84 - 131 | - | 65 to 93 | 30 and even more | inexpensive, easy to manufacture (laser cutting, folding...), light | not resistant to heat | https://laminatedplastics.com/plexiglass.pdf, https://www.plexiglas.de/en/sustainability/easy-to-recycle, https://plasticsheetsshop.co.uk/acrylic-advantages-and-disadvantages/#:~:text=Advantage%3A%20Plexiglass%20is%20hardwearing%20Acrylic%20sheet%20is%20very,same%20levels%20of%20thermal%20efficiency%20as%20standard%20glass.
 Aluminum | 2.6898 | - | 68.3 | - | 40 to 80 | lighter than other metal, easy to manufacture( lathe, milling..) | - | https://www.azom.com/article.aspx?ArticleID=2863, https://www.metalswarehouse.co.uk/lifespan-recyclability-aluminium-steel/
 Acrylonitrile butadiene styrene (ABS) | 0.9 to 1.53 | 65 | 2.28 | −20 to 80 | 50 to 80 | resistant to physical impact, easy to use for 3D print | inappropriate for high-temperature condition, high smoke generation when it burns| https://en.wikipedia.org/wiki/Acrylonitrile_butadiene_styrene, https://matweb.com/reference/compressivestrength.aspx, https://www.howtolookatahouse.com/Blog/Entries/2018/7/what-is-the-average-life-expectancy-of-abs-pipe-1.html#:~:text=The%20expected%20lifespan%20of%20ABS%20%28Acrylonitrile%20Butadiene%20Styrene%29,is%20expected%20to%20be%20similar%20to%20PVC%20pipe, https://adrecoplastics.co.uk/abs-plastic-properties/#:~:text=ABS%20has%20a%20low%20melting%20point%2C%20which%20enables,to%20withstand%20heavy%20use%20and%20adverse%20environmental%20conditions.
-  #### Documentation of material characteristics
-  1. Name of characteristic
-     * Properties
-     * Unit of property
-     * ...
+
  
 
