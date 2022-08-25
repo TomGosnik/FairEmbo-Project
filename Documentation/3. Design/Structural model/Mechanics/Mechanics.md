@@ -1,6 +1,6 @@
-## **How to document a structural model of mechanical products?** 
+# How to document a structural model of mechanical products? 
 
- ### **1. Architectural structure**
+ ## 1. Architectural structure
 
 - **Definition:** *The architectural structure is a physical or logical layout of the components of a system design and their internal and external connections.*
  <p align="center">
@@ -21,10 +21,10 @@
  
   
  
-### **2.Editable CAD files**
+## 2. Editable CAD files
  *Fairembo was designed in Freecad (version 0.19), allowing you to have full access to view, copy, edit, and export all of the source 3D CAD models for free from any computer which has installed Freecad* 
 
-### Template of file format
+  ### Template of file format
 
   1. 3D/2D file format
      * '.FCStd' is the original Freecad file format, allowing you to change the dimensions of the component as you want
@@ -36,7 +36,7 @@
      * Version used : 0.19
      * Download link : https://www.freecadweb.org/downloads.php
  
-### **3. Characteristics of the materials**
+## 3. Characteristics of the materials
   
    ### Table of material Characteristics
  
