@@ -1,5 +1,6 @@
 # FairEmbo - Fragmentation of surgical suture thread 
 
+  ## Context
 <p align="center"> <img src="https://user-images.githubusercontent.com/109949167/180742825-0df711a6-362a-4a22-8518-60668c71673b.png" /> <img src="https://user-images.githubusercontent.com/109949167/180745661-0acce26d-d47e-4410-bf2e-0de39c9fda36.png" /> </p>
 
 
@@ -20,3 +21,5 @@ The main objective of this project is to design and manufacture a device which i
 
 
 *For more information on the [FairEmbo project](https://www.youtube.com/watch?v=6P3fuX9SuC4)*
+
+  ## Our product
