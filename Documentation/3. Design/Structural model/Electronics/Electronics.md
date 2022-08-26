@@ -44,7 +44,7 @@ Arduino card	| ELEC_Ard	| 1	| UNO Rév. 3 Arduino	| https://fr.rs-online.com/web
 Here is the composition tree of the electronic part of the device
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/109949167/181485867-7aa1a20b-90c3-4a19-bb72-86a7922bedc5.png" />
+  <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Design_Structural%20model_Electronics_Electronics%20tree.png" />
 </p>
 
 ## 2. Architectural structure
@@ -52,12 +52,12 @@ Here is the composition tree of the electronic part of the device
 **Definition:** *The architectural structure is a physical or logical layout of the components of a system design and their internal and external connections.*
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/109949167/181259574-b0adde81-9392-442b-9330-24f4c2f7487f.png" />
+  <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Design_Structural%20model_Electronics_Logical%20architectural%20structure.png" />
 </p>
 
 For ease of wiring, here is a 3D representation of the control part of the device, seen from the left. 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/109949167/181260668-7242e5d5-d378-4c3c-bd19-e469330361ed.png" />
+  <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Design_Structural%20model_Electronics_Physical%20architectural%20structure.png" />
 </p>
 
