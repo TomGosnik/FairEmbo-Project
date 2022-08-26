@@ -3,14 +3,14 @@
  ## 1. Architectural structure
 
 - **Definition:** *The architectural structure is a physical or logical layout of the components of a system design and their internal and external connections.*
+
+ ### Architectural tree
  <p align="center">
  
   <img src="https://user-images.githubusercontent.com/109949167/181609976-df1aec48-4e1c-4851-8722-7dd79cdbb186.png" />
 
 
-
-### Template of architectural structure
- 
+ ### Architectural graph
  - **Explanation:** The Template contains 2 main flow streams : 1. Power supply(represented in red), 2. Suture Wire (represented in green)
  
  </p>
