@@ -1,7 +1,7 @@
 # FairEmbo - Fragmentation of surgical suture thread 
 
   ## Context
-<p align="center"> <img src="https://user-images.githubusercontent.com/109949167/180742825-0df711a6-362a-4a22-8518-60668c71673b.png" /> <img src="https://user-images.githubusercontent.com/109949167/180745661-0acce26d-d47e-4410-bf2e-0de39c9fda36.png" /> </p>
+<p align="center"> <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Readme_FairEmbo%20logo.png" /> <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Readme_FairEmbo%20presentation.png" /> </p>
 
 
 
