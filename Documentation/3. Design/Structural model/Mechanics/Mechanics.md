@@ -7,7 +7,7 @@
  ### Architectural tree
  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/109949167/181609976-df1aec48-4e1c-4851-8722-7dd79cdbb186.png" />
+  <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Design_Structural%20model_Mechanics_Architectural%20tree.png" />
 </p>
  
    ### Architectural graph
@@ -17,7 +17,7 @@
  
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/109949167/181522655-e4687a23-6942-4f80-8b57-2730ff4d2ba8.png" />
+  <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Design_Structural%20model_Mechanics_Architectural%20graph.png" />
 </p>
 
  
