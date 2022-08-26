@@ -15,7 +15,7 @@ The gear wheel drives the bearing, which causes the wire to translate as shown b
 The translation and therefore the step corresponding to the size of the cut particles are therefore the image of the step imposed by the stepper motor.
 
 <p align="center"> 
- <img src="https://user-images.githubusercontent.com/109949167/185093643-2ff640a2-b763-41d6-8711-f9bc578f8184.png" />
+ <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Design_Behaviour%20model_Wire%20guide.png" />
 </p>
 
 ## Wire cutting
@@ -30,6 +30,6 @@ This red part is guided in translation with a rail system. This red part is also
 In order to be able to move back and forth on the blade system, it was decided to use springs so that the red part could return to its initial position.
 
 <p align="center"> 
- <img src="https://user-images.githubusercontent.com/109949167/185092061-1b17edde-aa71-4d2a-895f-e9d1bd8737b5.png" />
+ <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Design_Behaviour%20model_Wire%20cutting.png" />
 </p>
 
