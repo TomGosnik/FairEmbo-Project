@@ -5,7 +5,7 @@
 **Definition:** *Stakeholders generally refer to all the actors (human and non-human) who have an interest in a product. Among the stakeholders, there are both internal players, such as users and participants of the project, and external players that are represented by the potential user of products or external entities.*
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/109949167/181773559-64129ea1-934d-4871-ab0b-a3b4538e2877.png" />
+  <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Specifications_Stakeholders.png" />
 <p/>
 
 **FP1:** Cutting suture into particles
@@ -33,7 +33,7 @@
 **Definition:**  *External interfaces are interactions between the product and the stakeholders.*
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/109949167/181773341-88ca7378-b00c-4826-a9b8-21b912d1d56a.png" />
+  <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Specifications_External%20interfaces.png" />
 <p/>
 
 ## 3. Requirement
