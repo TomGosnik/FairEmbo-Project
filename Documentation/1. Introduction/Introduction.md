@@ -34,7 +34,7 @@ Mr. Mathieu DE BIGLIESCE is the doctor who contacted us so that we could launch 
 
 ## Required skills
 
-To reproduce or modify the cutting machine, it is necessary to know the basic mechanics as well as the electronics and coding related to the Arduino.
+To reproduce or modify the cutting machine, it is necessary to know the basic mechanics as well as the electronics and coding related to the Arduino. This product has been intentionnally designed to be manufactured in any fablab with cutting machines and 3D printers.
 
 ## Contribution Process
 
