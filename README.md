@@ -23,3 +23,5 @@ The main objective of this project is to design and manufacture a device which i
 *For more information on the [FairEmbo project](https://www.youtube.com/watch?v=6P3fuX9SuC4)*
 
   ## Our product
+  
+  Insert Here a photo of the final product and the particules as a result of th ecutting operation
