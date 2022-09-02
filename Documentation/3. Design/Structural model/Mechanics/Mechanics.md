@@ -34,9 +34,11 @@
      * '.Dxf' is a 2D file format which allow you to use it in laser cutting
      * '.Stl' is a 3D file format which mostly used in 3D printing
   2. Name of CAD software
-     * FreeCAD
-     * Version used : 0.19
-     * Download link : https://www.freecadweb.org/downloads.php
+
+ Name of software | Version used | Download link 
+|:---:|:---:|:---:|
+SolidWorks | 2021 | https://www.solidworks.com/sw/support/downloads.htm 
+FreeCAD| 0.19 | https://www.freecadweb.org/downloads.php
  
 ## 3. Characteristics of the materials
   
