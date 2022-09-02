@@ -24,7 +24,7 @@
   
  
 ## 2. Editable CAD files
- *Fairembo was designed in Freecad (version 0.19), allowing you to have full access to view, copy, edit, and export all of the source 3D CAD models for free from any computer which has installed Freecad* 
+ *Fairembo was designed in SolidWorks (version 2021) and Freecad (version 0.19), allowing you to have full access to view, copy, edit, and export all of the source 3D CAD models for free from any computer which has installed Freecad and SolidWorks* 
 
   ### Template of file format
 
