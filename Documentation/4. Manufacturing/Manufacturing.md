@@ -74,7 +74,9 @@ Left arduino holder	|ELEC_P-Ard_G|	2	|ABS	|Impression 3D	|Zortrax M200
 Right arduino holder|	ELEC_P-Ard_D								
 Driver holder	|ELEC_P-Driv	|1							
 Top potentiometer holder	|ELEC_P-Pot_H	|2							
-Bottom potentiometer holder|	ELEC_P-Pot_B								
+Bottom potentiometer holder|	ELEC_P-Pot_B
+Potentiometer button connector | ELEC_Bout_Pot_Connect | 1 | Plexiglass|	Découpe laser | Epilog laser fusion
+Coaxial cable end holder | ELEC_P-Alim | Impression 3D |	Zortrax M200
 Accessories									
 Top potentiometer button|	ELEC_Bout-Pot_H	|2|	ABS	|Impression 3D	|Zortrax M200 				
 Bottom potentiometer button	|ELEC_Bout-Pot_B								
