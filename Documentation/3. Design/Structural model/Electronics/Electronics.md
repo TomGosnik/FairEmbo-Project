@@ -57,7 +57,9 @@ Here is the composition tree of the electronic part of the device
 </p>
 
 **Version 2**
-
+<p align="center">
+<img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Design_Structural%20model_Electronics_Logical%20architectural%20structure%20(2).png" />
+</p>
 
 For ease of wiring, here is a 3D representation of the control part of the device, seen from the left. 
 
