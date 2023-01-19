@@ -42,7 +42,7 @@
 
 * Cutting suture into particles
   * Particle size : between 300 and 1100 µm	(precision +/-75µm)
-  * Wire diameter 
+  * thread diameter : 0.3 to 0.5 extruded surgical suture thread
   * Particle shape : cylindrical (validated if the particles can exit the syringe)
   * Particle recovery
   * Speed of the process : less than 1s/particle
