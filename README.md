@@ -26,5 +26,7 @@ The main objective of this project is to design and manufacture a device which i
   <p align="center"> <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Final-Product.jpg" /> </p>
   
     Insert Here a photo of the final product and the particules as a result of th ecutting operation
+    
      <p align="center"> <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Particules-measure.jpg" /> </p>
+     
   
