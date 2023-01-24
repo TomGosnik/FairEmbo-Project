@@ -5,7 +5,7 @@
 
 
 
-This is part of a research project to previde a new solution to the problem of embolisation in low income countries. The [FAIREMBO chair] (https://www.univ-amu.fr/en/public/fairembo-chair) from Marseille Hospital in France is a the origin of the innovation and we have here the plans of the machine that allows a mass cutting of particules necessary to achieve the operation.
+This is part of a research project to previde a new solution to the problem of embolisation in low income countries. The *[FAIREMBO chair] (https://www.univ-amu.fr/en/public/fairembo-chair)* from Marseille Hospital in France is a the origin of the innovation and we have here the plans of the machine that allows a mass cutting of particules necessary to achieve the operation.
 
 Embolisation is a technology whose objective is to stop bleeding or blood circulation in a targeted area. The process seals a vessel by injecting a product into an artery under local anaesthetic. 
 
