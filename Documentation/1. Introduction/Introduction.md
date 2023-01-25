@@ -44,7 +44,7 @@ The machine has been delivered to the Marseille Hospital and is currently under 
 
 January 2023
 
-## Project team
+## Initial project team
 
 | Tom GOSNIK | Chaoji LIANG | Tom BIANCIOTTO | Adrien BACCONNET
 | :---: |
