@@ -46,9 +46,9 @@ January 2023
 
 ## Project team
 
-| Tom GOSNIK | Chaoji LIANG | Tom Bianciotto | Adrien Bacconnet
-| :---: | :---: |
-| Student at Grenoble INP - School of Industrial Engineering and Management | and University Grenoble Alpes (UGA) - Phitem |
+| Tom GOSNIK | Chaoji LIANG | Tom BIANCIOTTO | Adrien BACCONNET
+| :---: |
+| Students at Grenoble INP - School of Industrial Engineering and Management | and University Grenoble Alpes (UGA) - Phitem |
 | tom.gnk@gmail.com | liangchaoji04@gmail.com |
 
 ## License
