@@ -1,4 +1,4 @@
-# FairEmbo - Fragmentation of surgical suture thread 
+# FairEmbo - Fragmentation of surgical suture thread: 0.3, 0.5, 0.7, 0.9 mm
 
   ## Context
 <p align="center"> <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Readme_FairEmbo%20logo.png" /> <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Readme_FairEmbo%20presentation.png" /> </p>
