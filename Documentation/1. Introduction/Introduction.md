@@ -42,15 +42,14 @@ A REMPLIR
 
 ## Last updates 
 
-A REMPLIR
+January 2023
 
 ## Project team
 
-| GOSNIK Tom | LIANG Chaoji |
+| Tom GOSNIK | Chaoji LIANG | Tom Bianciotto | Adrien Bacconnet
 | :---: | :---: |
-| Student at Grenoble INP - Industrial Engineering and Management | Student at Grenoble Alpes University (UGA) - Phitem |
+| Student at Grenoble INP - School of Industrial Engineering and Management | and University Grenoble Alpes (UGA) - Phitem |
 | tom.gnk@gmail.com | liangchaoji04@gmail.com |
-| +33 (0)7.82.32.30.22 | +33 (0)7.61.24.24.02 |
 
 ## License
 Attribution - Share Like
@@ -63,4 +62,7 @@ This license lets others remix, adapt, and build upon your work even for commerc
 
 ## Sponsors and Partners
 
-A REMPLIR
+https://genie-industriel.grenoble-inp.fr/
+
+https://s-mart.fr/
+
