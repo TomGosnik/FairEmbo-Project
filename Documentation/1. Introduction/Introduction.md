@@ -38,7 +38,7 @@ To reproduce or modify the cutting machine, it is necessary to know the basic me
 
 ## Contribution Process
 
-A REMPLIR
+The machine has been delivered to the Marseille Hospital and is currently under test in various hospitals. An improved version will certainly be welcome in a near future. We will search for input and participation soon. In any case you can contact: jean-francois.boujut@grenoble-inp.fr
 
 ## Last updates 
 
