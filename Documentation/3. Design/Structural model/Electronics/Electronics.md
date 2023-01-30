@@ -83,6 +83,6 @@ Power wiring : (Note that ascending order of motor pin colors is always Blue - R
 
 Front control panel: Potentiometers and control buttons arduino pin correspondance
 
-<p align="center">
+<p align="center"> 
   <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Cablage%203.jpg" />
 </p>
