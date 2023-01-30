@@ -57,23 +57,25 @@ Here is the composition tree of the electronic part of the device
 <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Design_Structural%20model_Electronics_Logical%20architectural%20structure%20(2).jpg" />
 </p>
 
+Pinout diagram
+
 <p align="center">
 <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/PCB%20pinout.jpg" />
 </p>
 
-Driver control board 
+Driver control board - pinout correspondance
 
 <p align="center">
   <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/cablage1.jpg" />
 </p>
 
-Driver and power supply wiring
+Power wiring : (Note that ascending order of motor pin colors is always Blue - Red - Green - Black)
 
 <p align="center">
   <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Cablage%202.jpg" />
 </p>
 
-Face control panel: Potentiometers and control buttons
+Front control panel: Potentiometers and control buttons arduino pin correspondance
 
 <p align="center">
   <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Cablage%203.jpg" />
