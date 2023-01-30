@@ -61,15 +61,19 @@ Here is the composition tree of the electronic part of the device
 <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/PCB%20pinout.jpg" />
 </p>
 
-For ease of wiring, here is a 3D representation of the control part of the device, seen from the left. 
+Driver control board 
 
 <p align="center">
   <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/cablage1.jpg" />
 </p>
 
+Driver and power supply wiring
+
 <p align="center">
   <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Cablage%202.jpg" />
 </p>
+
+Face control panel: Potentiometers and control buttons
 
 <p align="center">
   <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Cablage%203.jpg" />
