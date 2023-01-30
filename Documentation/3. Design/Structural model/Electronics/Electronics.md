@@ -69,6 +69,12 @@ Driver control board - pinout correspondance
   <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/cablage1.jpg" />
 </p>
 
+Picture of the card with relay and drivers mounted on 
+
+<p align="center">
+  <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Cablage%204.jpg" />
+</p>
+
 Power wiring : (Note that ascending order of motor pin colors is always Blue - Red - Green - Black)
 
 <p align="center">
