@@ -66,8 +66,11 @@ For ease of wiring, here is a 3D representation of the control part of the devic
 <p align="center">
   <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/cablage1.jpg" />
 </p>
+
 <p align="center">
-  <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/cablage%202.jpg" />
-</p><p align="center">
-  <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/cablage%203.jpg" />
+  <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Cablage%202.jpg" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Cablage%203.jpg" />
 </p>
