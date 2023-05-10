@@ -100,7 +100,7 @@ void loop() {
     ParticlesNumber = 0;
 
     // Variables associées aux fonctions
-    Step =  ( WireLength() / radiusExtruder ) * ( 25600 / 6.28 );    // Nombre de pas à faire en fonction de la taille du fil à découper
+    Step =  ( WireLength() / radiusExtruder ) * ( 25600 / (2*PI) );    // Nombre de pas à faire en fonction de la taille du fil à découper
     //25600 est le nombre de pas un tour de moteur
 
     Max = round( CoilLength() / WireLength() );                        // Nombre de particules à découper en fonction de la bobine
