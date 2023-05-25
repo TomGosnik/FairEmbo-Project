@@ -39,6 +39,7 @@
 |:---:|:---:|:---:|
 SolidWorks | 2021 | https://www.solidworks.com/sw/support/downloads.htm 
 FreeCAD| 0.19 | https://www.freecadweb.org/downloads.php
+OnShape | 2021 |https://cad.onshape.com/documents/1c97d2eae284a43686a399bf/w/0fb098345c6d2285c3f1eb61/e/92be17f8a49da64bbd5fd24f
  
 ## 3. Characteristics of the materials
   
