@@ -119,7 +119,7 @@ void loop() {
     // Le moteur de l'extrudeur tourne puis le moteur de la came fait un tour
     //Serial.println(Step);
     WireMotor.step( Step );
-    delay( 2 );
+    delay( 20 );
     CamMotor.step( 800 ); //25600
     delay( 200 );
 
@@ -165,14 +165,14 @@ void loop() {
     //Si la bobine est utilisée au 1/5 
     if( ParticlesNumber == round( Max / 5 ) ) {
 
-      digitalWrite( led1, HIGH );
+      digitalWrite( led5, HIGH );
       
     }
 
     //Si la bobine est utilisée aux 2/5 
     if( ParticlesNumber == round( ( Max * 2 ) / 5 ) ) {
 
-      digitalWrite( led2, HIGH );
+      digitalWrite( led4, HIGH );
       
     }
     
@@ -186,14 +186,14 @@ void loop() {
     //Si la bobine est utilisée aux 4/5 
     if( ParticlesNumber == round( ( Max * 4 ) / 5 ) ) {
 
-      digitalWrite( led4, HIGH );
+      digitalWrite( led2, HIGH );
       
     }
 
     // Si la bobine est épuisée on arrête le système 
     if( ParticlesNumber >= Max ) {
 
-      digitalWrite( led5, HIGH );
+      digitalWrite( led1, HIGH );
       Start = 0;
       delay(5000);
         
