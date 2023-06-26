@@ -1,6 +1,6 @@
 # **Use**
 
-*I would like to provide important information to end-users on 'how to use my product'.*
+*I would like to provide important information to end-users on 'how to use the FAIREMBO Machine'.*
 
 ## **User videos**
 [Video presentation of the machine (in French)](https://youtu.be/ImHSvuk8Stc)
