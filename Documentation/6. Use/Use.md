@@ -11,7 +11,9 @@
 </p>
 
 ## **User videos**
-[https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Feeder.jpg](https://youtu.be/wi5pOOeNl6A)
+<p align="center"> 
+ <img src="[https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Use_User%20guide.png](https://youtu.be/wi5pOOeNl6A)" />
+</p>
 
 
 
