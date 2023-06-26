@@ -11,10 +11,10 @@
 </p>
 
 ## **User videos**
-<p align="center"> 
- <img src="[https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Feeder.png" />
-</p>
 
+<p align="center"> 
+ <img src="https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Use_User%20guide.png" />
+</p>
 
 
 
