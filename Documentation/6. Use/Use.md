@@ -13,9 +13,9 @@
 ## **User videos**
 
 
-[https://github.com/TomGosnik/FairEmbo-Project/blob/main/Source/Pictures/Feeder.jpg](https://youtu.be/ImHSvuk8Stc)
+[Video presentation of the machine (in French)](https://youtu.be/ImHSvuk8Stc)
 
-https://youtu.be/wi5pOOeNl6A
+[Video presentation of the insetion of the thread (in French)](https://youtu.be/wi5pOOeNl6A)
 
 
 
