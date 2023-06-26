@@ -12,7 +12,7 @@
 
 ## **User videos**
 <p align="center"> 
- <img src="https://youtu.be/wi5pOOeNl6A)https://youtu.be/wi5pOOeNl6A" />
+ <video src="https://youtu.be/wi5pOOeNl6A)https://youtu.be/wi5pOOeNl6A" />
 </p>
 
 
