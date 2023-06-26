@@ -11,9 +11,8 @@
 </p>
 
 ## **User videos**
-<p align="center"> 
- <video src="https://youtu.be/wi5pOOeNl6A)https://youtu.be/wi5pOOeNl6A" />
-</p>
+[https://www.univ-amu.fr/en/public/fairembo-chair](https://youtu.be/wi5pOOeNl6A)
+
 
 
 
