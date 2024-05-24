@@ -20,6 +20,8 @@ Our customer, contacted us to think about the creation of a machine to cut the s
 
 The main objective of this project is to design and manufacture a device which is capable of taking input in the form of suture spools, and providing output in the form of cut sutures suitable for the FairEmbo process. The design should be simple, easy to use and, above all, cost-effective. In this way, the project will contribute to the automation of the Fairembo technique without losing sight of the main objective of affordability for poor underdeveloped countries.
 
+This project has been initiated and developed in collaboration with the S-MART platform of Grenoble University (https://s-mart.grenoble-inp.fr/).
+
 
 *For more information on the [FairEmbo project](https://www.youtube.com/watch?v=6P3fuX9SuC4)*
 
